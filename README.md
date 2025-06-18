@@ -1,2 +1,5 @@
 # SmartHome_Server_2025
 졸업작품_사용자 맞춤형 스마트 홈케어 솔루션_다른 팀원 코드이지만 App코드를 실행하기 위해 필요
+
+[ 코드 다운로드 주소 ]
+https://drive.google.com/drive/folders/17iU-ATwA0AfHaSJvtxjbmB_98KNCtgx-?usp=drive_link
